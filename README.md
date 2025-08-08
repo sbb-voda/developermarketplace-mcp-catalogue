@@ -1,0 +1,1 @@
+Postma generated MCP server that points at collection https://www.postman.com/vodafone-developers/vodafone-api-lab/collection/ulluahf/tmf936-operate-api-product-catalog?action=share&source=copy-link&creator=37083027
